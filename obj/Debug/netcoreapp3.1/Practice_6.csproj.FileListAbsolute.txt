@@ -1,0 +1,13 @@
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\bin\Debug\netcoreapp3.1\Practice_6.exe
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\bin\Debug\netcoreapp3.1\Practice_6.deps.json
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\bin\Debug\netcoreapp3.1\Practice_6.runtimeconfig.json
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\bin\Debug\netcoreapp3.1\Practice_6.runtimeconfig.dev.json
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\bin\Debug\netcoreapp3.1\Practice_6.dll
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\bin\Debug\netcoreapp3.1\Practice_6.pdb
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.csprojAssemblyReference.cache
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.AssemblyInfoInputs.cache
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.AssemblyInfo.cs
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.csproj.CoreCompileInputs.cache
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.dll
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.pdb
+C:\Users\eladi\OneDrive\Escritorio\Personal\Temporal\Practice_6\obj\Debug\netcoreapp3.1\Practice_6.genruntimeconfig.cache
