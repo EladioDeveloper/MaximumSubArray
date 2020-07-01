@@ -7,6 +7,24 @@ using System.Linq;
 namespace Practice_6 {
     class Program {
         static void Main (string[] args) {
+
+            //Demo
+            int[] array1 = new int[] { 1, 2, 3, 4 };
+            int[] array2 = new int[] { 2, -1, 2, 3, 4, -5 };
+            List<List<int>> lista = new List<List<int>> ();
+
+            lista.Add (new List<int> { MaxSubArray (array1), MaxSum (array1) });
+            lista.Add (new List<int> { MaxSubArray (array2), MaxSum (array2) });
+
+            foreach (var items in lista) {
+                Console.WriteLine ();
+                foreach (var item in items) {
+                    Console.Write ($"{item} ");
+                }
+            }
+            Console.ReadKey ();
+            //-------------------------------------------------------------------
+
             List<List<int>> list = new List<List<int>> { };
             int t = int.Parse (Console.ReadLine ());
             for (int i = 0; i < t; i++) {
